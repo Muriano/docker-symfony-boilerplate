@@ -1,5 +1,5 @@
 {
-    "name": "jamuriano/docker-symfony-boilerplate",
+    "name": "muriano/docker-symfony-boilerplate",
     "description": "A simple boilerplate to quickly start a PHP project based on Symfony",
     "type": "project",
     "license": "MIT",
