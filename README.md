@@ -36,6 +36,6 @@ This repository supposes that you're already familiar with Symfony Framework and
 
 Use [app/src] to put your code on.
 
-Use [app/test] to put your tests on.
+Use [app/tests] to put your tests on.
 
 Piece of cake!
