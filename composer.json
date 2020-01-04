@@ -1,0 +1,14 @@
+{
+    "name": "jamuriano/docker-symfony-boilerplate",
+    "description": "A simple boilerplate to quickly start a PHP project based on Symfony",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "José Antonio Muriano Criado",
+            "email": "jamuriano@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
