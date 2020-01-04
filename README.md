@@ -13,7 +13,7 @@ This project pretends to be a quickly and easy to use base to bootstrap your own
 
 or
 
-* Execute in your favorite terminal: `$ composer create-project muriano/docker-symfony-boilerplate {yourProjectNameHere}`
+* Execute in your favorite terminal: `$ composer create-project --no-install muriano/docker-symfony-boilerplate {yourProjectNameHere}`
 
 ## What do you get:
 * A ready to go base installation of Symfony (Currently version 5)
