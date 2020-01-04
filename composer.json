@@ -10,5 +10,10 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+    "scripts": {
+        "post-create-project-cmd": [
+            "rm -rf ./composer.json"
+        ]
+    }
 }
